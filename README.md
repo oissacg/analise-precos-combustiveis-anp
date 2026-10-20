@@ -4,7 +4,7 @@ Dashboard em Power BI com preços de combustíveis no Brasil (ANP, jan–set/202
 
 Dashboard em **Power BI** que analisa os preços de revenda de combustíveis em 416 municípios brasileiros, a partir dos dados abertos da ANP.
 
-![Visão geral do dashboard](visao_geral.png)
+![Visão geral do dashboard](visao_geral_gasolina.png)
 
 ## 🎯 Perguntas de negócio
 1. Qual é o preço médio de cada combustível no período?
@@ -25,7 +25,7 @@ Dashboard em **Power BI** que analisa os preços de revenda de combustíveis em 
 - **São Paulo tem o etanol mais barato do país (R$ 4,11)**, e o Amapá, o mais caro (R$ 5,88).
 - O preço atingiu o pico em março/abril (R$ 4,86) e **caiu cerca de 13% até agosto (R$ 4,24)**. Hipótese: o início da safra de cana-de-açúcar no Centro-Sul, a partir de abril, aumenta a oferta de etanol.
 
-![Visão do etanol](visao_etanol.png)
+![Visão do etanol](visao_geral_etanol.png)
 
 ## ⚠️ Limitações e notas de análise
 - A média é **ponderada pelo número de postos pesquisados**, pois a base não traz o volume vendido.
